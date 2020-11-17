@@ -1,0 +1,10 @@
+{
+    "nama" : "Andi",
+    "umur" : 20,
+    "nrp" : "183040142",
+    "lulus" : false,
+    "hobby" : [
+        "main",
+        "apex"
+    ]
+}
